@@ -1,4 +1,4 @@
-# Student Dashboard Project
+# Student Dashboard Project (Techinal Training Django Project)
 
 A Django-based web application for managing student courses and grades.
 
@@ -15,3 +15,5 @@ A Django-based web application for managing student courses and grades.
 2. `pip install django pillow`
 3. `python manage.py migrate`
 4. `python manage.py runserver`
+
+By Somya Ranjan Tripathi; CS3K; 1230432644.
